@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="textViewSaludo">Hello World!</string>
+    <string name="txtViewTitle">Contacts App</string>
+    <string name="buttonBuyNow">BUY NOW</string>
+    <string name="buttonSales">SAILS</string>
+    <string name="buttonDetails">DETAILS</string>
+
+</resources>
