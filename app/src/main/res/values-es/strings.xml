@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Mi Aplicación</string>
     <string name="textViewSaludo">Hola Mundo</string>
+    <string name="hintTextEmail">Correo Electrónico</string>
 </resources>
